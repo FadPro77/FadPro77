@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👋 Hi, Welcome to my profile, my name is Muhammad Fadhillah Rahman. I'm a college student in Informatics Engineering
-👀 I’m interested in Fullstack Web Development
-🌱 I’m currently learning and working on React.js and Express.js
-🤝 I’m very open to collaboration
+- 👋 Hi, Welcome to my profile, my name is Muhammad Fadhillah Rahman. I'm a college student in Informatics Engineering
+- 👀 I’m interested in Fullstack Web Development
+- 🌱 I’m currently learning and working on React.js and Express.js
+- 🤝 I’m very open to collaboration
 
 ## 🌐 You Can Contact Me On:
 
