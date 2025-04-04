@@ -1,13 +1,13 @@
 # 💫 About Me:
 
-- 👋 Hi, Welcome to my profile, my name is Muhammad Fadhillah Rahman. I'm a college student in Informatics Engineering
+- 👋 Hi, Welcome to my profile, my name is Muhammad Fadhillah Rahman. I'm a college student of Informatics Engineering
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning and working on React.js and Express.js
+- 🌱 I’m currently learning and working on small React.js and Express.js project
 - 🤝 I’m very open to collaboration
 
 ## 🌐 You Can Contact Me On:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhillah-rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadhilelja77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fadhillah-rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadhilelja77@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadhil.rhm_77)  [![Discord](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://discordapp.com/users/1028526485369258064) 
 
 # 💻 Tech Stack:
 
