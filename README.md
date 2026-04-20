@@ -63,6 +63,8 @@
   </tr>
 </table>
 
+![FadPro77's Stats](https://github-readme-stats.vercel.app/api?username=FadPro77&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ---
