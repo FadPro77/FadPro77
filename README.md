@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=FadPro77&theme=gotham&show_icons=true&hide_border=true&layout=compact
+![FadPro77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadPro77&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
